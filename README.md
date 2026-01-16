@@ -15,8 +15,6 @@ An iOS application for parent monitoring and student productivity tracking built
 - **Data Persistence**: Core Data
 - **Device APIs**: Family Controls, Device Activity frameworks
 
-## Screenshots
-[Add screenshots here if you have them]
 
 ## Note on Device Activity APIs
 The Family Controls and Device Activity frameworks require physical device testing and specific provisioning profiles. Some features cannot be demonstrated in Xcode Simulator.
